@@ -33,3 +33,11 @@ describe('AppComponent', () => {
     expect(compiled.querySelector('.content span').textContent).toContain('angularapp app is running!');
   });
 });
+console.log("sunil");
+console.log("saravana");
+console.log("vasanth");
+console.log("parthiban");
+console.log("banu");
+console.log("manoj");
+console.log("kannan");
+console.log("keerthana");
